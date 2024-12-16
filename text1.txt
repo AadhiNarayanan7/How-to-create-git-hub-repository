@@ -1,0 +1,6 @@
+initialising:
+git init
+adding files to stage:
+git add "file Name"
+committing stage files;
+git commit -m "commit comment"
